@@ -1,0 +1,2 @@
+Prefix plugins/GPUPrim/example
+Plugin GPUPrim inputfile parameters.txt outputfile output.tsv
